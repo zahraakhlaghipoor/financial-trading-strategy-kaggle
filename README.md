@@ -1,5 +1,5 @@
 # AI-Powered Financial Trading Strategy
-
+https://drive.google.com/file/d/1tbnePMdXXD5MMCbyVEOycLhCIxdKY5Ki/view?usp=sharing
 ## Overview
 
 This project presents a data-driven trading strategy that combines Machine Learning and Technical Analysis to identify high-probability trading opportunities in financial markets.
@@ -149,8 +149,7 @@ Past performance does not guarantee future results. Trading financial markets in
 ## Authors
 
 Developed by:
-* ،هئش 
-* Tima Kalhori
+*Tima Kalhori
 * Zahra Akhlaghipoor
 
 
