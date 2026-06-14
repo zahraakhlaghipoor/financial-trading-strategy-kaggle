@@ -149,7 +149,7 @@ Past performance does not guarantee future results. Trading financial markets in
 ## Authors
 
 Developed by:
-*Tima Kalhori
+* Tima Kalhori
 * Zahra Akhlaghipoor
 
 
